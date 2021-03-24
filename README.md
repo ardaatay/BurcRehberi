@@ -1,0 +1,2 @@
+# BurcRehberi
+Günlük Burç Rehberi
